@@ -1,5 +1,5 @@
 # 08-Vehicle-Builder
-edX Bootcamp Homework Challenge 8 - Typescript
+edX Bootcamp Homework Challenge 8 - Typescript & OOP
 
 ## Description
 
@@ -17,7 +17,7 @@ This program prompts the user to either create a new vehicle or select an existi
 
 ## Installation
 
-git clone git @github.com:LiebeAnnette/08-Vehicle-Builder.git
+git clone git@github.com:LiebeAnnette/08-Vehicle-Builder.git
 
 ### Prerequisites
 Node.js
@@ -45,6 +45,8 @@ MIT License
 
 https://github.com/LiebeAnnette
 
-## Google Drive Folder with Video Link:
+## Google Drive Folder & Video Links:
 
 https://drive.google.com/drive/folders/129Taa119Dmr45-DuTjeT2tc3mYZEjVza?usp=drive_link
+
+https://drive.google.com/file/d/1yw7k3b1iGTIciI0lWyfFgMY3hgiTnwvg/view?usp=sharing
